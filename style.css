@@ -112,19 +112,11 @@ h2{
  }
 
  p{
-  font-size: 0.70rem;
+  font-size:55%;
  } 
-
- h3{
-  padding-top:4rem; 
- }
-
-  #sectionOne,#sectionTwo,#sectionTwoImage,#sectionThree,#sectionThreeImage{
-  
-  padding:5vh;
-
-  }
-
-
+#sectionOne,#sectionTwo,#sectionThree{
+  padding-top: 0.8rem;
+}
+ 
 }
  
